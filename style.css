@@ -1,0 +1,58 @@
+h4{
+    color: cyan;
+    background-color: black;
+    padding: 10px;
+    font-size: medium;
+    display: inline;
+}
+#output{
+    height: 28vw;
+    
+    width: 95vw;
+    margin: 10px;
+    background-color: honeydew;
+}
+body{
+    background-color: grey;
+}
+#html{
+    height: 15vw;
+width: 30vw;
+margin: .3vw;
+background-color: black;
+color: white;
+}
+#css{
+    height: 15vw;
+width: 30vw;
+margin: .5vw;
+background-color: black;
+color: white;
+}
+#js{
+    height: 15vw;
+width: 30vw;
+margin: .5vw;
+background-color: black;
+color: white;
+}
+.h{
+    margin-left: 10vw;
+font-size: 3vw;
+}
+.c{
+    margin-left: 25vw;
+    font-size: 3vw;
+}
+.j{
+    margin-left: 25vw;
+    font-size: 3vw;
+}
+h1{
+    /* color: blue; */
+    color: antiquewhite;
+background-color: black;
+text-align: center;
+padding: 3vw;
+font-size: 5vw;
+}
